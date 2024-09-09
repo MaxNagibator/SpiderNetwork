@@ -1,0 +1,6 @@
+@SpiderNetwork.Server_HostAddress = http://localhost:5022
+
+GET {{SpiderNetwork.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
